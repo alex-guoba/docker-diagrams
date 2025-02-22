@@ -50,7 +50,7 @@ dot -Tpng docker-compose.dot output.png
 ```
 
 <p align="center">
-  <img alt="Example Page" src="./diagram.png" width="689">
+  <img alt="Example Page" src="https://github.com/user-attachments/assets/e08a85b8-35bf-4b9f-a593-7b1031b49e5b" width="689">
 </p>
 
 ## Opiptions
