@@ -1,0 +1,10 @@
+vendor/
+_*
+*.test
+.DS_Store
+bin/
+var/
+build/
+*.out
+tmp/
+go-diagrams/
