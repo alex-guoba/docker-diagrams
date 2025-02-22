@@ -6,7 +6,7 @@ Docker Diagrams is a tool that generates diagrams from Docker Compose files.
 
 ## Features
 
-1. supports Docker Compose files compliant with Docker Compose speicification
+1. supports Docker Compose files compliant with Docker Compose specification
 2. supports multiple environment variables in Docker Compose files
 
 ## Installation
